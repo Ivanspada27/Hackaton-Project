@@ -6,7 +6,7 @@ With one click, it evaluates a client’s investment portfolio in real time—of
 ## 🔧 Tech Stack
 - Frontend: React + TailwindCSS
 - Backend: FastAPI (Python)
-- Risk logic: custom logic + optional GPT-4 integration
+- Risk logic: custom logic + optional GPT-3.5 integration
 - Data format: JSON
 - API endpoint: `POST /evaluate`
 
